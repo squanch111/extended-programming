@@ -3,9 +3,9 @@
 # - Member2 (S2663848)
 # - Member3 (S)
 
-# Member 1 was primarily responsible for the split_function and simulating the text.
-# Member 2 was primarily responsible for generating common_words and matrix M, as well as developing the Markov model for the simulation.
-# Member 3 was primarily responsible for identifying capital letters in the final step and testing and debugging the overall code.
+# Member 1 was primarily responsible for the split_punct function and simulate function to generate the text.(30%)
+# Member 2 was primarily responsible for generating common_words and matrix M, as well as developing the Markov model for the simulation.(30%)
+# Member 3 was primarily responsible for identifying capital letters in the final step and testing and debugging the overall code.(40%)
 
 
 #######################################################################
