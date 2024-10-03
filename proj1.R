@@ -54,12 +54,6 @@ for (i in 1:(mlag + 1)) {
   M[, i] <- index_vector[i:(n - mlag + i - 1)]
 }
 
-
-# # 判断是否是字母
-# is_word <- function(word) {
-#   grepl("^[a-z]+$", word)
-# }
-
 # check whether word is punctuation
 is_punctuation <- function(word) {
   grepl("^[^a-z]+$", word)
@@ -70,7 +64,7 @@ is_punctuation <- function(word) {
 text_simulator <- function(b, M, mlag, nw) {
   # choose a non-empty word to be the first word randomly
   generator <- c()
-  current_word <- sample(na.omit(M[, 1]), 1)  # 随机选择起始词
+  current_word <- sample(na.omit(M[, 1]), 1)
   generator <- c(generator, b[current_word])
   
   
