@@ -10,7 +10,7 @@
 
 #######################################################################
 # resource preparation
-setwd("D:/rstudio/clone/extended-programming")
+#setwd("D:/rstudio/clone/extended-programming")
 a <- scan("4300-0.txt",what="character",skip=73,nlines=32858-73,
           fileEncoding="UTF-8") 
 a <- gsub("_(","",a,fixed=TRUE) ## remove "_("
