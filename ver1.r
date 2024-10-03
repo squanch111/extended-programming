@@ -1,7 +1,7 @@
 # Team Members:
-# - Member1 (Username1)
-# - Member2 (Username2)
-# - Member3 (Username3)
+# - Member1 ()
+# - Member2 ()
+# - Member3 (s2663848)
 
 
 # Description of Contributions:
