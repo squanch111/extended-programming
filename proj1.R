@@ -1,7 +1,7 @@
 # Team Members:
 # - Member1 (S2702040)
 # - Member2 (S2663848)
-# - Member3 (S)
+# - Member3 (S2678971)
 
 # Member 1 was primarily responsible for the split_punct function and simulate function to generate the text.(30%)
 # Member 2 was primarily responsible for generating common_words and matrix M, as well as developing the Markov model for the simulation.(30%)
