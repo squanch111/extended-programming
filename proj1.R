@@ -1,6 +1,6 @@
 # Team Members:
 # - Member1 (S)
-# - Member2 (S)
+# - Member2 (S2663848)
 # - Member3 (S)
 
 # Member 1 was primarily responsible for the split_function and simulating the text.
